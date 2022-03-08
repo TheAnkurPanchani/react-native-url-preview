@@ -1,6 +1,6 @@
 {
   "name": "react-native-url-preview",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "react native url previewer",
   "main": "index.js",
   "scripts": {
@@ -21,12 +21,11 @@
     "prop-types": "*",
     "react": "*",
     "react-native": "*",
-    "react-native-windows": "0.41.0-rc.1"
+    "react-native-windows": "0.67.3"
   },
   "dependencies": {
-    "link-preview-js": "2.0.4"
+    "link-preview-js": "^2.1.13"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maherzaidoune/react-native-url-preview.git"
