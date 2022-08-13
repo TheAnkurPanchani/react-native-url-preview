@@ -1,5 +1,5 @@
 {
-  "name": "react-native-url-preview",
+  "name": "@theankur/react-native-url-preview",
   "version": "1.2.0",
   "description": "react native url previewer",
   "main": "index.js",
@@ -15,23 +15,17 @@
     "youtube video preview",
     "link preview"
   ],
-  "author": "Zaidoune Maher",
+  "author": "Ankur Panchani",
   "license": "MIT",
-  "peerDependencies": {
-    "prop-types": "*",
-    "react": "*",
-    "react-native": "*",
-    "react-native-windows": "0.67.3"
-  },
   "dependencies": {
     "link-preview-js": "^2.1.13"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maherzaidoune/react-native-url-preview.git"
+    "url": "git+https://github.com/TheAnkurPanchani/react-native-url-preview.git"
   },
   "bugs": {
-    "url": "https://github.com/maherzaidoune/react-native-url-preview/issues"
+    "url": "https://github.com/TheAnkurPanchani/react-native-url-preview/issues"
   },
-  "homepage": "https://github.com/maherzaidoune/react-native-url-preview#readme"
+  "homepage": "https://github.com/TheAnkurPanchani/react-native-url-preview#readme"
 }
